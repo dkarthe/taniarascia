@@ -12,7 +12,7 @@ const config = {
     'Tania Rascia is a developer, designer, and writer who breaks down complex concepts for all skill levels.',
   siteRss: '/rss.xml',
   googleAnalyticsID: 'UA-129506902-1',
-  disqusShortname: 'taniarascia',
+  disqusShortname: 'ooioo',
   postDefaultCategoryID: 'Tech',
   userName: 'Tania',
   userEmail: 'kd@outlook.at',
